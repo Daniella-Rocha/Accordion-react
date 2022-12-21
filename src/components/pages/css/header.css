@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navBar {
+    background-color: #7ff4ff;
+    display: flex;
+    justify-content: center;
+}
+.navBar li{
+    display: inline-block;
+    padding: 20px;
+    margin: 1rem;
+}
+
+.navBar li:hover{
+background-color: aliceblue;
+border-radius: 5px;
+}
